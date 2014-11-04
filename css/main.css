@@ -49,3 +49,10 @@ body {
   left: -212px;
   float: left;
 }
+
+.text {
+max-width: 438px;
+float: right;
+font-size: 45px;
+font-style: italic;
+}
